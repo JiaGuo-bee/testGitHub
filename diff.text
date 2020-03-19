@@ -2,4 +2,8 @@ Test branch .
 
 This is a new line to test branch.
 
-New line to test merge 1111.
+<<<<<<< HEAD
+New line to test merge.
+=======
+New line to test merge.
+>>>>>>> temp
