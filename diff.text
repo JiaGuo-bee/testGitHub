@@ -1,9 +1,5 @@
 Test branch .
 
-<<<<<<< HEAD
-This is a new line to test branch.
-=======
 This is a new line to test branch.
 
 New line to test merge 1.
->>>>>>> temp
